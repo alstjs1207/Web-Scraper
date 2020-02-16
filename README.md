@@ -9,6 +9,7 @@ https://academy.nomadcoders.co/courses/enrolled/681401
 # library import
 
 pip install requests
+
 pip install beautifulsoup4
 
 
