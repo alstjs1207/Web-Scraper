@@ -19,6 +19,6 @@ pip install beautifulsoup4
 2. stackoverflow scraping
 3. make csv
 
-# Test
+# News
 
-naver 증권 기사 
+naver 금융 주요 뉴스 정보 가져요기
