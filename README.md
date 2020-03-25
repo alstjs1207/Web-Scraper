@@ -19,3 +19,6 @@ pip install beautifulsoup4
 2. stackoverflow scraping
 3. make csv
 
+# Test
+
+naver 증권 기사 
